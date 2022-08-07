@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @McFLoDuR
 - 👀 I’m interested in Movies, Games & Cars
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently working on Angular Projects
 - 📫 How to reach me: rudi2001@bk.ru
 
 <!---
