@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @McFLoDuR
-- 👀 I’m interested in Movies, Games & Cars
+- 👀 I’m interested in CompSci, Languages, Movies & Games
 - 🌱 I’m currently working on Angular Projects
 - 📫 How to reach me: rudi2001@bk.ru
 
